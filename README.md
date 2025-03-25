@@ -3,6 +3,7 @@
 - 🖥️ Graduando em Engenharia da Computação
 - ⚙️ Hoje trabalho com Desenvolvimento em Automação Industrial
 - 🌱 Estou atualmente estudando Python e SQL
+- 🚀 Sempre em busca de novos conhecimentos
 
   
 ## Linguagens Mais Usadas
