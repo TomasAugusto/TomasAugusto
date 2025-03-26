@@ -43,9 +43,15 @@
   <img alt="TomasAugusto_Stats" height="250" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasAugusto&langs_count=10&theme=algolia&layout=compact">
 </p>
 
-<img style="float: right" height="175em" src="https://github-readme-stats.vercel.app/api?username=TomasAugusto&show_icons=true&theme=algolia" alt="TomasAugusto :: Profile Stats" />-->
+-->
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
-</h1>
+<p align="center">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomasAugusto/TomasAugusto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasAugusto/TomasAugusto/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TomasAugusto/TomasAugusto/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
+</p>
 <h2 align="center" >⬇️ Confira alguns dos meus projetos </h2>
