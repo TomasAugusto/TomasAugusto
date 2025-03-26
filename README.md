@@ -35,6 +35,14 @@
   <a href="https://www.instagram.com/tomasaugusto30" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+<!--
+<h2 align="center">⚡ Minhas Estatísticas</h2>
+
+<p align="center">
+  <img alt="TomasAugusto_Stats" height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=TomasAugusto&show_icons=true&theme=algolia">
+</p>
+
+<img style="float: right" height="175em" src="https://github-readme-stats.vercel.app/api?username=TomasAugusto&show_icons=true&theme=algolia" alt="TomasAugusto :: Profile Stats" />-->
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
