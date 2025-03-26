@@ -40,6 +40,7 @@
 
 <p align="center">
   <img alt="TomasAugusto_Stats" height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=TomasAugusto&show_icons=true&theme=algolia">
+  <img alt="TomasAugusto_Stats" height="250" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasAugusto&langs_count=10&theme=algolia&layout=compact">
 </p>
 
 <img style="float: right" height="175em" src="https://github-readme-stats.vercel.app/api?username=TomasAugusto&show_icons=true&theme=algolia" alt="TomasAugusto :: Profile Stats" />-->
