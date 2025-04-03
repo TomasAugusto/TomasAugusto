@@ -39,8 +39,8 @@
 <h2 align="center">⚡ Minhas Estatísticas</h2>
 
 <p align="center">
-  <img alt="TomasAugusto_Stats" height="250" width="500" src="https://github-readme-stats.vercel.app/api?username=TomasAugusto&show_icons=true&theme=algolia">
-  <img alt="TomasAugusto_Stats" height="250" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasAugusto&langs_count=10&theme=algolia&layout=compact">
+  <img alt="TomasAugusto_Stats" height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=TomasAugusto&show_icons=true&theme=algolia">
+  <img alt="TomasAugusto_Stats" height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasAugusto&langs_count=10&theme=algolia&layout=compact">
 </p>
 
 <!--
