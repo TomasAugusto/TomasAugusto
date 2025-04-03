@@ -35,7 +35,7 @@
   <a href="https://www.instagram.com/tomasaugusto30" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<!--
+
 <h2 align="center">⚡ Minhas Estatísticas</h2>
 
 <p align="center">
@@ -43,6 +43,7 @@
   <img alt="TomasAugusto_Stats" height="250" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasAugusto&langs_count=10&theme=algolia&layout=compact">
 </p>
 
+<!--
 -->
 
 <p align="center">
