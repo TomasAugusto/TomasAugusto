@@ -3,9 +3,9 @@
 </h1>
 
 <div  align="center" >
-- 🖥️ Graduando em Engenharia da Computação<br>
-- ⚙️ Hoje trabalho com Desenvolvimento em Automação Industrial<br>
-- 🌱 Estou atualmente estudando Python e SQL<br>
+- 🖥️ Engenheiro da Computação<br>
+- ⚙️ Hoje trabalho com Desenvolvimento de Software em Automação Industrial<br>
+- 🌱 Estou atualmente estudando e evoluindo em Python e SQL<br>
 - 🚀 Sempre em busca de novos conhecimentos
 </div>
 
